@@ -7,9 +7,21 @@ weight: 3
 
 The primary goal of the Ecocultural Mapping Working Group was to adapt content from the UP-CLOSE report (Emmings & Erickson, 2004) in conjunction with knowledge shared by Indigenous community members, to map out cultural values across the Xetthecum landscape.
 
+## Research approach
+
 Before beginning this process, the UP-CLOSE report was carefully reviewed and a survey design and protocol for consultation with Indigenous community members was developed. We decided to use a reflexive, developmental approach in our research methodology ([Mariam Attia & Julian Edge, 2017](https://doi.org/10.1080/23265507.2017.1300068)). We also kept in mind noted Indigenous research methodologies, such as Fyre Jean Graveline's (2000) [Circle as methodology: Enacting an Aboriginal paradigm](https://doi.org/10.1080/095183900413304).
 
-Our Indigenous team members shared that very few, if any, of their family members have ever attended, let alone participated in public consultation or decision-making processes, much less research or mapping projects. Rather than publicly invite Indigenous community members to participate in a group process, we carefully approached individuals based on networks of established relationships, which fostered trust and openness in sharing. Invitation to participate in a workshop at a public venue, even a circle-based one, was considered an inappropriate approach to this work, not only because of the challenges associated with COVID, but also because of the reluctance of Indigenous community members to participate in such social functions outside of familiar contexts for knowledge sharing. Because of this reality, we realized that it would not be helpful to use a public outreach strategy for this initial phase of consultation with Indigenous community members. Instead we prioritized immediate connections within the community, and especially our relationship with Thiyuas, Puneluxutth’ Elder Florence James, to co-develop a knowledge-sharing process that would work for Indigenous knowledge holders.
+## Reaching out through relationships
+
+Our Indigenous team members shared that very few, if any, of their family members have ever attended, let alone participated in public consultation or decision-making processes, much less research or mapping projects.
+
+Rather than publicly invite Indigenous community members to participate in a group process, we carefully approached individuals based on networks of established relationships, which fostered trust and openness in sharing.
+
+Invitation to participate in a workshop at a public venue, even a circle-based one, was considered an inappropriate approach to this work, not only because of the challenges associated with COVID, but also because of the reluctance of Indigenous community members to participate in such social functions outside of familiar contexts for knowledge sharing.
+
+Because of this reality, we realized that it would not be helpful to use a public outreach strategy for this initial phase of consultation with Indigenous community members. Instead we prioritized immediate connections within the community, and especially our relationship with Thiyuas, Puneluxutth’ Elder Florence James, to co-develop a knowledge-sharing process that would work for Indigenous knowledge holders.
+
+## Interview questions
 
 Questions asked during the UP-CLOSE workshop series focused primarily on values ascribed to ecological communities. In our approach, we instead prioritized questions about the favourite places, activities, interests, livelihoods and passions of those interviewed (Table 14). Interviews were then reviewed and thematically analyzed to group values in relation to the ecological communities and sites of significance represented at Xetthecum.
 
@@ -22,11 +34,25 @@ Questions asked during the UP-CLOSE workshop series focused primarily on values 
 | 3. What do you and people you know do in the ecosystem? (walk, gather wood, paint, etc.) | 3. What kind of activities have you done on Galiano / in Xetthecum in the past that you hope to do again in the future? |
 | 4. What places are special to you on Galiano Island and why? | 4. What changes have occurred that prevent you from doing the activities you once did on Galiano / Xetthecum? |
 
-Content from thematized interviews was then synthesized with content generated during the UP-CLOSE workshop series to generate textual summaries of the cultural values associated with ecosystems and places. This process was critical, reflexive and creative, taking the following approach: i) Honouring past participatory mapping exercises by drawing excerpts from the UP-CLOSE report as base content for a summary of cultural values associated with each ecosystem; ii) Decolonizing concepts and assumptions embedded in past representations of the landscape by reimagining ecologies more inclusive of a variety of Indigenous perspectives; and, iii) Indigenizing summaries with specific cultural knowledge shared by Galiano-related knowledge holders through the interview process. Through this process, any assumptions and theories were ultimately replaced by testimonials and direct knowledge shared and organized through thematic analysis of interview notes and transcripts, adding nuance and complexity to the summary.
+## Synthesizing cultural values
+
+Content from thematized interviews was then synthesized with content generated during the UP-CLOSE workshop series to generate textual summaries of the cultural values associated with ecosystems and places. This process was critical, reflexive and creative, taking the following approach:
+
+1. **Honouring** past participatory mapping exercises by drawing excerpts from the UP-CLOSE report as base content for a summary of cultural values associated with each ecosystem.
+2. **Decolonizing** concepts and assumptions embedded in past representations of the landscape by reimagining ecologies more inclusive of a variety of Indigenous perspectives.
+3. **Indigenizing** summaries with specific cultural knowledge shared by Galiano-related knowledge holders through the interview process.
+
+Through this process, any assumptions and theories were ultimately replaced by testimonials and direct knowledge shared and organized through thematic analysis of interview notes and transcripts, adding nuance and complexity to the summary.
 
 Those interviewed during Phase II of this project included: Florence James, Jeannine Georgeson, Rosemary Georgeson, Fred Wilson, and Lorne Silvey. These respondents then helped us to identify other potential participants, based on this initial successful and mutually beneficial experience.
 
-Because of the sensitivities associated with this process, the work of consulting, thematizing, adapting, and synthesizing cultural values and stories of place remained ongoing by the end of Phase II with content that had not been finalized nor fully integrated into the online framework. For the rest of Phase II, we prioritized completion of the mapping prototype, based on content gathered during this phase of this project, to serve as a guiding framework and reference point for continued consultation during Phase III. Table 15 summarizes the tasks completed by this working group.
+## Work in progress
+
+Because of the sensitivities associated with this process, the work of consulting, thematizing, adapting, and synthesizing cultural values and stories of place remained ongoing by the end of Phase II with content that had not been finalized nor fully integrated into the online framework.
+
+For the rest of Phase II, we prioritized completion of the mapping prototype, based on content gathered during this phase of this project, to serve as a guiding framework and reference point for continued consultation during Phase III.
+
+Table 15 summarizes the tasks completed by this working group.
 
 **Table 15.** Phase II: Ecocultural Mapping Tasks
 

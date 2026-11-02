@@ -4,15 +4,25 @@ description: "Bringing biodiversity, geospatial and ecocultural information toge
 weight: 3
 ---
 
-The GIS and data analysis component of Phase I began with the creation of a GIS database using the open source mapping application QGIS. This GIS database incorporates several layers of relevant geospatial data and species occurrence records, summarized in [Table 4](../preliminary_research/). A preliminary map of the ecological communities represented at Xetthecum is presented in Figure 1.
+The GIS and data analysis component of Phase I began with the creation of a GIS database using the open source mapping application QGIS. This GIS database incorporates several layers of relevant geospatial data and species occurrence records, summarized in [Table 4](../preliminary_research/).
+
+A preliminary map of the ecological communities represented at Xetthecum is presented in Figure 1.
 
 {{% imgproc preliminary_map Fit "1600x1600" %}}
 **Figure 1.** Preliminary map of Xetthecum (Retreat Cove, Galiano Island, BC) project area, highlighting important ecological communities as previously mapped through the UP-CLOSE participatory mapping workshops (Emmings & Erickson 2004). Important natural features identified during Phase I of this project include: 1) Greig Creek; 2) Laughlin Lake; 3) Retreat Cove caves; 4) Retreat Cove eelgrass bed; 5) Retreat Island. Note: the basemap (Open Streetmap) behind this map distorts the colours representing each community in the legend because of the overlay in transparencies. [Figure 3](../../phase-ii/ecocultural_design/) shows the updated styles adopted for the final version of the online map.
 {{% /imgproc %}}
 
+## Linking geospatial data to the literature
+
 We reviewed geospatial layers in our GIS and identified key features and attributes that could be mapped with content identified in our review of the literature (e.g., sensitive ecosystems documented in the Islands Trust Sensitive Ecosystem Guide). These resources were then tabulated based on common variables represented in the geospatial dataset, in order to facilitate the incorporation of these resources into our interactive map.
 
-Once existing ecocultural datasets had been tabulated, we ran algorithms to examine the overlap / correspondence between species present in the project area and information attributed to species in the available ecocultural literature. A total of 524 species are documented in the project area, represented by 1,845 occurrence records. Through our review of the available literature, we tabulated ecocultural information for a total of 303 species. Between these two datasets, there was a one-to-one mapping or correspondence between 45 species (Table 7).
+## Species in the landscape and in the literature
+
+Once existing ecocultural datasets had been tabulated, we ran algorithms to examine the overlap / correspondence between species present in the project area and information attributed to species in the available ecocultural literature.
+
+- A total of **524 species** are documented in the project area, represented by 1,845 occurrence records.
+- Through our review of the available literature, we tabulated ecocultural information for a total of **303 species**.
+- Between these two datasets, there was a one-to-one mapping or correspondence between **45 species** (Table 7).
 
 **Table 7.** Species Present at Xetthecum vs Species Represented in Ecocultural Literature
 
@@ -20,7 +30,9 @@ Once existing ecocultural datasets had been tabulated, we ran algorithms to exam
 |---|---|---|
 | 524 spp. | 303 spp. | 45 spp. |
 
-Based on the tables produced through this analysis, we integrated the results of our literature review with the biodiversity data collected from the study area, to visualize ecocultural content for a small subset of the species represented on our map of Retreat Cove (Table 8). Additional sources of biodiversity data were later included through ongoing outreach, research, and field surveys. Species documented in the ecocultural literature which were not found in our initial species inventory of Xetthecum (= 258 taxa) were sought through inventory work conducted during Phase II.
+Based on the tables produced through this analysis, we integrated the results of our literature review with the biodiversity data collected from the study area, to visualize ecocultural content for a small subset of the species represented on our map of Retreat Cove (Table 8).
+
+Additional sources of biodiversity data were later included through ongoing outreach, research, and field surveys. Species documented in the ecocultural literature which were not found in our initial species inventory of Xetthecum (= 258 taxa) were sought through inventory work conducted during Phase II.
 
 **Table 8.** Correspondences between Local Species Occurrences and Species Documented in Ecocultural Resources (Phase I). Note: the orthographies used for Hul’q’umi’num’ names are inconsistent between sources.
 
@@ -72,9 +84,23 @@ Based on the tables produced through this analysis, we integrated the results of
 | | *Vaccinium parvifolium* | red huckleberry | Sqw'uqwtsus | Hul’q’umi’num’ Treaty Group 2011 |
 | | *Zostera marina* | eelgrass | chəәləәm (Cowichan) | Turner 2014 |
 
-To inform subsequent search efforts, we identified potential locations of culturally significant species present in the study area based on the ecological communities represented in our GIS. Phase II field work later involved the selection of sites representative of each of the key ecological communities summarized in [Table 5](../preliminary_research/), which were inventoried with a focus on the ~300 species documented in Hul’q’umi’num’ Treaty Group (2011), Turner (2014) and Luschiim (2021), in order to generate a rich ecocultural dataset for the purpose of this pilot project. Florence James was consulted regarding the names of additional species, or variations of those documented by Hul’q’umi’num’ Treaty Group (2011), Turner (2014) and Luschiim (2021). Residents in the Retreat Cove neighbourhood were also invited to participate in this biodiversity mapping initiative via iNaturalist. (Later, we teamed up with Hunterston Farms and other partner organizations to plan a BioBlitz at Xetthecum during Phase III of this project.)
+## Guiding field work
 
-Finally, we identified a preliminary list of natural features to be documented in this project, identified in Figure 1, which may hold ecological and cultural value in the eyes of project participants. We continued the work of inventorying potentially important natural and cultural features of the landscape through Phase II. In Phase I, we also began the process of exploring ways in which visual art produced by project participants may be integrated as layer styles / tiling for each ecological community, and to illustrate other features of our digital map (continued during Phase II). Table 9 presents a summary of tasks related to GIS and ecocultural data analysis completed during Phase I.
+To inform subsequent search efforts, we identified potential locations of culturally significant species present in the study area based on the ecological communities represented in our GIS.
+
+Phase II field work later involved the selection of sites representative of each of the key ecological communities summarized in [Table 5](../preliminary_research/), which were inventoried with a focus on the ~300 species documented in Hul’q’umi’num’ Treaty Group (2011), Turner (2014) and Luschiim (2021), in order to generate a rich ecocultural dataset for the purpose of this pilot project.
+
+Florence James was consulted regarding the names of additional species, or variations of those documented by Hul’q’umi’num’ Treaty Group (2011), Turner (2014) and Luschiim (2021).
+
+Residents in the Retreat Cove neighbourhood were also invited to participate in this biodiversity mapping initiative via iNaturalist. (Later, we teamed up with Hunterston Farms and other partner organizations to plan a BioBlitz at Xetthecum during Phase III of this project.)
+
+## Natural features and visual art
+
+Finally, we identified a preliminary list of natural features to be documented in this project, identified in Figure 1, which may hold ecological and cultural value in the eyes of project participants. We continued the work of inventorying potentially important natural and cultural features of the landscape through Phase II.
+
+In Phase I, we also began the process of exploring ways in which visual art produced by project participants may be integrated as layer styles / tiling for each ecological community, and to illustrate other features of our digital map (continued during Phase II).
+
+Table 9 presents a summary of tasks related to GIS and ecocultural data analysis completed during Phase I.
 
 **Table 9.** Phase I: GIS and Data Analysis Tasks
 
