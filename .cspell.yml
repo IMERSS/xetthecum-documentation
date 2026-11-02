@@ -1,0 +1,12 @@
+# cSpell:ignore textlintrc
+# For settings, see
+# https://www.streetsidesoftware.com/vscode-spell-checker/docs/configuration/
+version: '0.2'
+caseSensitive: true
+words:
+  - Docsy
+  - Goldydocs
+  - Xetthecum
+  - Hul’q’umi’num’
+  - Puneluxutth
+  - Pune’luxutth

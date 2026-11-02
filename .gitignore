@@ -1,0 +1,8 @@
+node_modules/
+.hugo_build.lock
+.Rproj.user
+.Rhistory
+.idea
+
+.DS_Store
+

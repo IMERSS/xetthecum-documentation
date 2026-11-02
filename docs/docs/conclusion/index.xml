@@ -1,0 +1,157 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMERSS – Conclusion</title>
+    <link>/docs/conclusion/</link>
+    <description>Recent content in Conclusion on IMERSS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/docs/conclusion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Outcomes</title>
+      <link>/docs/conclusion/outcomes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/conclusion/outcomes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Interactive Digital Map of Xetthecum:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We created an &lt;a href=&#34;https://imerss.github.io/xetthecum-storymap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;interactive digital map of Xetthecum&lt;/a&gt; to demonstrate the potential of the ecocultural mapping framework our team co-designed through this pilot project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Open Source Ecocultural Mapping Framework:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The open source platform we developed is a novel JavaScript extension of R Markdown/Quarto that allows one to publish maps and data visualizations that integrate biodiversity data, geospatial data, multimedia content, as well as virtually any data visualization or analysis that one can implement in R. The platform is based on WebGL for mapping and is highly responsive across platforms. This preliminary framework elaborates a comprehensive, albeit imperfect, methodology for documenting biodiversity, ecocultural resources, and stories of culturally important places in the Salish Sea.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Integration of Indigenous Wisdom and Western Scientific Practice:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our participatory mapping framework effectively incorporates Indigenous wisdom and knowledge alongside Western scientific practices, ensuring a holistic and inclusive approach to understanding and stewarding the landscape.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Identification of Ecological and Cultural Dimensions:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The project has identified important ecological and cultural dimensions of the landscape, serving as a valuable framework for conservation efforts and private land stewardship initiatives.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Building Upon Past Efforts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By leveraging previous participatory mapping exercises and local resources, we have built upon past efforts to document the eco-cultural values of the Galiano Island landscape, enriching our digital map with valuable insights and knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Promotion of Skill-sharing and Knowledge Exchange:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The project has fostered intergenerational, cross-cultural, multidisciplinary, and transboundary skill-sharing and knowledge exchange, nurturing eco-cultural mapping as a professional conservation practice among the next generation of land stewards.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Integration of New Technologies:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We successfully applied new technologies, including the use of drones to capture aerial orthoimagery, enhancing the resolution of existing terrestrial ecosystem mapping data and improving the accuracy and detail of our digital map.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exploration of Ongoing Monitoring Practices:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Through collaboration with regional and local agencies, as well as members of the Galiano Island community, we have explored the potential for developing ongoing biodiversity and eco-cultural monitoring practices. This collaborative effort aims to sustain our work into the future, ensuring continued stewardship of the landscape.&lt;/p&gt;
+&lt;p&gt;These outcomes reflect our commitment to holistic, inclusive, and sustainable approaches to eco-cultural mapping and conservation, driving positive impacts both for the environment and communities involved.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned</title>
+      <link>/docs/conclusion/lessons_learned/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/conclusion/lessons_learned/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Skill Development and Collaboration:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recognizing the need for skill development and collaboration with other land-stewardship programs to merge local knowledge effectively, considering the project&amp;rsquo;s goals and objectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tool Development and Accessibility:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developing a &amp;ldquo;broadly accessible&amp;rdquo; story map tool to cater to various audiences, including elders, language learners, scientists, and educators, within the framework of the project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Recognizing the need for multiple pathways and interaction options within the story map to accommodate different accessibility preferences, such as minimizing complexity for elders, while integrating scientific data with Indigenous knowledge.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Framework Design and Integration:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Acknowledging the complexity of designing a framework that respects diverse knowledge systems without hierarchy, particularly in the context of eco-cultural initiatives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Addressing the challenge of integrating Indigenous wisdom into the story map without relegating it to mere decoration or marginalization, specifically within the GIS framework of the project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Critical Examination and Perspective Shift:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Engaging in the critical examination of technologies and their role in place-based learning within the project&amp;rsquo;s context.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Grappling with the perspective shift inherent in traditional GIS mapping, which emphasizes colonial viewpoints, and exploring ways to create culturally sensitive mapping tools that align with the project&amp;rsquo;s goals.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Project Objectives and Cultural Awareness:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Understanding the shift in project goals towards restoration rather than a narrative of loss, and the importance of navigating the line between appreciation and appropriation, aligning with the project&amp;rsquo;s evolving objectives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emphasizing the project&amp;rsquo;s broader significance in fostering connections across generations and cultures, reflecting its impact beyond immediate outcomes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Questioning the assumption that more data always leads to better outcomes, particularly within the context of place-based, knowledge-based learning emphasized by the project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Next Steps</title>
+      <link>/docs/conclusion/next_steps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/conclusion/next_steps/</guid>
+      <description>
+        
+        
+        &lt;p&gt;As an outcome of the Design and Implementation phase of this project, we developed a set of design recommendations to guide future iterations of this work. These follow below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Narrative Development and Multimedia Integration:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Further development of the narrative and addition of audio and video stories.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Add more interactive elements to the map, such as audio or video stories linked to specific locations, species observations, and images.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Community Engagement and Collaboration:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Collaboratively develop creative and engaging ways to represent multiple (often conflicting) stories and perspectives.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Increase community contributions and engagement with the tool, considering combinations of &amp;ldquo;in real life&amp;rdquo; events that feed back into the tool in a circular manner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop a creative handbook to support other communities in creating an ecocultural map in their location.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incorporate the SOS (Spirit of the Sxwo&amp;rsquo;le) Memorandum of Understanding (MoU) into the narrative.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consider creative engagement through design to make the tool welcoming to Indigenous individuals and others, including elements like images of a longhouse, nature soundscapes, and gathering around a campfire.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Structural and Content Considerations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Develop ways to experience non-linear narratives, including through hyperlinking and weaving cross-cutting ideas/elements/dimensions into vignettes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Include the stories of the team through bios based on prompt questions to build trust with the audience.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Consider alternative ways of structuring content rooted in Coast Salish culture, such as incorporating swirling, interconnected narratives and metaphorical weaving mats, as recommended by Indigenous Creative Director, Johnny Aitken.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
