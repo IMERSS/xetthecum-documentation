@@ -1,7 +1,6 @@
 ---
 title: "Xetthecum Ecocultural Mapping: A Learning Journey"
 linkTitle: Learning Journey
-menu: {main: {weight: 6}}
 ---
 
 {{% pageinfo %}}

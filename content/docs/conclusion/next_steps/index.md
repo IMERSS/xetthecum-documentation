@@ -3,30 +3,32 @@ title: Next Steps
 weight: 3
 ---
 
-As an outcome of the Design and Implementation phase of this project, we developed a set of design recommendations to guide future iterations of this work. These follow below.
-
-**Narrative Development and Multimedia Integration:**
-
-- Further development of the narrative and addition of audio and video stories.
-
-- Add more interactive elements to the map, such as audio or video stories linked to specific locations, species observations, and images.
-
 **Community Engagement and Collaboration:**
 
-- Collaboratively develop creative and engaging ways to represent multiple (often conflicting) stories and perspectives.
+- Collaborate with Galiano Island Parks and Recreation Society to develop signage featuring species names in Hul’q’umi’num’ and English, cultural values, QR codes to site, and additional pertinent information.
 
-- Increase community contributions and engagement with the tool, considering combinations of "in real life" events that feed back into the tool in a circular manner.
+- Launch a Fall exhibition and workshop at Yellowhouse Makery.
 
-- Develop a creative handbook to support other communities in creating an ecocultural map in their location.
+- Consult with Indigenous community members to finalize the Data Management Plan, ensuring permissions for incorporation of cultural knowledge into the project framework.
 
-- Incorporate the SOS (Spirit of the Sxwo'le) Memorandum of Understanding (MoU) into the narrative.
+**Data Collection, Analysis, and Story-mapping:**
 
-- Consider creative engagement through design to make the tool welcoming to Indigenous individuals and others, including elements like images of a longhouse, nature soundscapes, and gathering around a campfire.
+- Transcribe video footage and interviews with Augie Sylvester, and gather data on eelgrass and clam bed restoration and protection, including diverse uses such as hunting, gathering, harvesting, and medicinal purposes. Consider language diversity, repatriation, and the impact of human and marine traffic.
 
-**Structural and Content Considerations:**
+- Supplement database of Hul’q’umi’num’ names for species and other map features based on The Cowichan Dictionary of the Hul’qumin’um’ Dialect of the Coast Salish People.
 
-- Develop ways to experience non-linear narratives, including through hyperlinking and weaving cross-cutting ideas/elements/dimensions into vignettes.
+- Complete curation of 2023 Bioblitz data and incorporate side-narrative regarding BioBlitz outcomes into the project.
 
-- Include the stories of the team through bios based on prompt questions to build trust with the audience.
+- Update Xetthecum story map to include more perspectives from Indigenous community members, including more threads shared by Augie at our recent gathering.
 
-- Consider alternative ways of structuring content rooted in Coast Salish culture, such as incorporating swirling, interconnected narratives and metaphorical weaving mats, as recommended by Indigenous Creative Director, Johnny Aitken.
+**Resource Development and Dissemination:**
+
+- Consult with Whiteswan Environmental regarding opportunities to adapt this framework to serve their visions of mapping ecocultural information and storytelling about culturally significant sites in the Salish Sea.
+
+- Consider developing different versions of the project to promote usefulness and accessibility for different groups.
+
+- Explore the possibility of compiling stories that encompass both traditional and modern knowledge of the area into a book.
+
+- Develop an improved content management system to ensure the protection of intellectual property and respect for the practices and protocols of Indigenous communities.
+
+- Once we have completed review and consultation with contributing Puneluxutth’ Knowledge-Holders, project sponsors, partners, and advisors, satisfying our Acceptance Criteria, we will share the website with the public.

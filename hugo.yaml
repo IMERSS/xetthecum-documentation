@@ -52,7 +52,7 @@ menu:
       weight: 2
     - identifier: atlas
       name: "Atlas"
-      url: "https://imerss.github.io/salish-sea-biodiversity/"
+      url: "https://salishseabiodiversity.org/"
       weight: 4
     - identifier: involved
       name: "Get Involved"
@@ -62,7 +62,20 @@ menu:
       name: Donate
       url: "https://imerss.org/donate/"
       weight: 7
-    # This site's own "Docs" entry (weight 6, before Donate) comes from content/docs/_index.md
+    - identifier: docs
+      name: Docs
+      weight: 6
+    - identifier: extirpation-protocol
+      name: "Detecting Species Extirpation"
+      url: "https://imerss.github.io/detecting-local-extinction/docs/"
+      parent: docs
+      weight: 1
+    # This site's own entry under Docs
+    - identifier: xetthecum
+      name: "Xetthecum Ecocultural Mapping"
+      pageRef: /docs
+      parent: docs
+      weight: 2
     - name: Search
       weight: 8
       params:
