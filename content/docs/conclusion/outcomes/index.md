@@ -1,7 +1,10 @@
 ---
 title: Outcomes
+description: "What the pilot achieved, and what has been completed since"
 weight: 1
 ---
+
+## Outcomes of the pilot project
 
 **Interactive Digital Map of Xetthecum:**
 
@@ -36,3 +39,23 @@ We successfully applied new technologies, including the use of drones to capture
 Through collaboration with regional and local agencies, as well as members of the Galiano Island community, we have explored the potential for developing ongoing biodiversity and eco-cultural monitoring practices. This collaborative effort aims to sustain our work into the future, ensuring continued stewardship of the landscape.
 
 These outcomes reflect our commitment to holistic, inclusive, and sustainable approaches to eco-cultural mapping and conservation, driving positive impacts both for the environment and communities involved.
+
+## Completed since the 2024 report
+
+Several of the [next steps](../next_steps/) identified at the close of the pilot have since been completed:
+
+**Public launch of the website and story map:**
+
+Following review and consultation with contributing Puneluxutth’ Knowledge-Holders, project sponsors, partners, and advisors, the [Xetthecum Ecocultural Mapping website](https://imerss.github.io/xetthecum-storymap/) and [story map](https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html) have been shared with the public.
+
+**Expanded Indigenous perspectives in the story map:**
+
+The Xetthecum story map was updated to include more perspectives from Indigenous community members, including threads shared by Puneluxutth’ elder Augie Sylvester at our February 2024 gathering.
+
+**2023 BioBlitz data and story:**
+
+We completed the curation of the 2023 BioBlitz data and incorporated a side-narrative on the BioBlitz outcomes into the project.
+
+**Exhibition and workshop at Yellowhouse Makery:**
+
+We held a Fall exhibition and workshop at Yellowhouse Makery, sharing the project with the Galiano Island community.
