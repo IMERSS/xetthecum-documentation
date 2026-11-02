@@ -72,7 +72,7 @@ menu:
       weight: 1
     # This site's own entry under Docs
     - identifier: xetthecum
-      name: "Xetthecum Ecocultural Mapping"
+      name: "Xetthecum: a learning journey"
       pageRef: /docs
       parent: docs
       weight: 2
