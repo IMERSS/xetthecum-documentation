@@ -6,6 +6,12 @@ weight: 1
 
 ## A partnership with Whiteswan Environmental
 
+<p style="text-align: center; margin: 1.5rem 0;">
+  <a href="https://www.whiteswanenvironmental.org/" target="_blank" rel="noreferrer">
+    <img src="whiteswan-environmental.png" alt="Whiteswan Environmental" style="display: inline-block; width: 240px; max-width: 70%; height: auto;">
+  </a>
+</p>
+
 The Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS) is working in partnership with the Indigenous-led nonprofit Whiteswan Environmental (WE) to develop digital mapping tools supporting the visualization of ecocultural information and storytelling about natural, cultural, and historical sites in the Salish Sea.
 
 ## The Spirit of the Sxwo’le (SOS) Coalition
