@@ -95,8 +95,8 @@
     &lt;a href=&#34;#gathering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;On February 23–25, 2024 we held a small gathering on Galiano Island with Puneluxutth’ elder Augie Sylvester, members of his family, and a few Galiano community members to share our work and get feedback on our approach to ecocultural mapping. We also recorded Augie’s stories of the history and cultural values at Xetthecum.&lt;/p&gt;
 &lt;p&gt;Our discussions with Augie revealed that there are multiple perspectives on Retreat Cove, depending on who is telling the story and what their purpose was for visiting this place.&lt;/p&gt;
 &lt;p&gt;There are also many missing stories about this place. We acknowledge that these missing pieces are a result of colonization, and are a part of the story that we need to tell.&lt;/p&gt;
-&lt;p&gt;This experience also confirmed that the story map we created cannot be conclusive. We acknowledged this reality from the outset of our pilot project, and this remains a central lesson as we continue this work.&lt;/p&gt;
-&lt;p&gt;Ideally, future iterations of this ecocultural mapping framework will better accommodate multiple perspectives, reveal gaps and missing pieces, and help to facilitate continued dialogue about culturally significant places in the Salish Sea.&lt;/p&gt;
+&lt;p&gt;This experience also confirmed that the story map we created cannot be conclusive. We acknowledged this reality from the outset of our pilot project, and it remains one of its central lessons.&lt;/p&gt;
+&lt;p&gt;Ideally, any future iteration of such a framework would better accommodate multiple perspectives, reveal gaps and missing pieces, and help to facilitate continued dialogue about culturally significant places in the Salish Sea.&lt;/p&gt;
 
       </description>
     </item>
@@ -125,7 +125,7 @@
 &lt;h2&gt;Welcoming a broad audience&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;welcoming-a-broad-audience&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#welcoming-a-broad-audience&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Over the course of Phase II and into Phase III of the project, the team had many discussions about how to make the ecocultural storymap more engaging and welcoming to a broad audience.&lt;/p&gt;
 &lt;p&gt;Given the large amount of information we had gathered, as well as the unique interactive approach of the framework, we were concerned that landing on the interactive map for the first time could be overwhelming and confusing for many.&lt;/p&gt;
-&lt;p&gt;In addition to the creation of a how-to tutorial (part of our next steps), the design team worked on an interactive onboarding sequence rooted in the symbolism of the Coast Salish spindle whorl (see Figma prototype &lt;a href=&#34;https://www.figma.com/proto/yXKyjRyHbnJPB6jrbfO0dq/Xetthecum?page-id=801%3A2&amp;amp;type=design&amp;amp;node-id=1348-298&amp;amp;viewport=359%2C-279%2C0.19&amp;amp;t=IbSkke2BSQTUyACG-1&amp;amp;scaling=min-zoom&amp;amp;starting-point-node-id=1348%3A298&amp;amp;show-proto-sidebar=1&amp;amp;mode=design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and screen capture &lt;a href=&#34;https://drive.google.com/file/d/1yP0xCxeO8N9lbgUdpA4KNteJdc_jGqZh/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), which aimed at providing a creative and engaging introduction to the story map and its content.&lt;/p&gt;
+&lt;p&gt;In addition to the creation of a how-to tutorial (identified as a possible next step), the design team worked on an interactive onboarding sequence rooted in the symbolism of the Coast Salish spindle whorl (see Figma prototype &lt;a href=&#34;https://www.figma.com/proto/yXKyjRyHbnJPB6jrbfO0dq/Xetthecum?page-id=801%3A2&amp;amp;type=design&amp;amp;node-id=1348-298&amp;amp;viewport=359%2C-279%2C0.19&amp;amp;t=IbSkke2BSQTUyACG-1&amp;amp;scaling=min-zoom&amp;amp;starting-point-node-id=1348%3A298&amp;amp;show-proto-sidebar=1&amp;amp;mode=design&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and screen capture &lt;a href=&#34;https://drive.google.com/file/d/1yP0xCxeO8N9lbgUdpA4KNteJdc_jGqZh/view?usp=drive_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), which aimed at providing a creative and engaging introduction to the story map and its content.&lt;/p&gt;
 &lt;figure class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 1610px&#34;&gt;
 &lt;img class=&#34;card-img-top&#34; src=&#34;../../docs/phase-iii/design_implementation/storymap_portal_hu7a61e54135c8a7cd8d44c18bdd7f3faa_197012_1600x1600_fit_q75_catmullrom.jpg&#34; width=&#34;1600&#34; height=&#34;813&#34;&gt;
 &lt;figcaption class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
@@ -135,19 +135,19 @@
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;h2&gt;A portal into the story map&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-portal-into-the-story-map&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#a-portal-into-the-story-map&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In order to improve the accessibility of the storymap, we sought to provide a diversity of entry points, including the ability to begin at a simple starting point and then dive into deeper layers of interaction and information. This approach would provide the basis for a non-linear narrative experience through hyper-linking (see &lt;a href=&#34;../future_possibilities/&#34; &gt;Next Steps&lt;/a&gt;).&lt;/p&gt;
+    &lt;a href=&#34;#a-portal-into-the-story-map&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In order to improve the accessibility of the storymap, we sought to provide a diversity of entry points, including the ability to begin at a simple starting point and then dive into deeper layers of interaction and information. This approach would provide the basis for a non-linear narrative experience through hyper-linking (see &lt;a href=&#34;../future_possibilities/&#34; &gt;Future Possibilities&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The educators on the team also felt that this way of organising the data would be particularly useful in a formal educational setting, where teachers and students could directly access biodiversity data as well as stories of place.&lt;/p&gt;
 &lt;p&gt;Thus, the design focus shifted from the onboarding welcome sequence to the creation of a “portal” into the story map, which took the form of the &lt;a href=&#34;https://imerss.github.io/xetthecum-storymap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Xetthecum Ecocultural Mapping website&lt;/a&gt;. This website allows visitors to learn about the project aim and background, and to directly access biodiversity data and stories of place as well as the story map itself (Figure 4).&lt;/p&gt;
 &lt;h2&gt;An evolving framework&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;an-evolving-framework&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#an-evolving-framework&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In developing the ecocultural mapping framework (latest version &lt;a href=&#34;https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) we considered a number of different approaches and designs towards creating an accessible and inclusive experience for a broad audience.&lt;/p&gt;
-&lt;p&gt;We acknowledge that one version of the framework is inadequate and that having a flexible framework that welcomes community contributions and that can be adapted to different needs, purposes and contexts is essential in the longer term.&lt;/p&gt;
-&lt;p&gt;Next steps in the design of the framework will be to gather more community input through a community event being planned on Galiano Island in the Fall of 2024.&lt;/p&gt;
-&lt;p&gt;Our aim has been to build a framework that is itself a scaffold to support further story gathering, which we can continue to elaborate in the longer term.&lt;/p&gt;
+&lt;p&gt;We came to see that any single version of the framework is inadequate, and that a flexible framework—one welcoming community contributions, adaptable to different needs, purposes and contexts—would matter more in the longer term.&lt;/p&gt;
+&lt;p&gt;At the close of the pilot, the design team looked toward gathering further community input through a community event on Galiano Island in the Fall of 2024.&lt;/p&gt;
+&lt;p&gt;Our aim was to build a framework that is itself a scaffold for further story gathering, should the opportunity to elaborate it arise.&lt;/p&gt;
 
 
 
 &lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
-&lt;p&gt;This framework is not an end unto itself, but an ongoing collaborative process, and this documentation shares our learning journey along the way. We hope that sharing this journey will support others in adapting this ecocultural mapping framework in a way that is appropriate for their location and context.&lt;/p&gt;
+&lt;p&gt;This framework was never an end unto itself, but a collaborative process, and this documentation shares our learning journey along the way. We offer it in the hope that it may be of some use to others, should they wish to approach such work in a way appropriate to their own location and context.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -217,7 +217,7 @@
       <description>
         
         
-        &lt;p&gt;As an outcome of the Design and Implementation phase of this project, we developed a set of design recommendations to guide future iterations of this work. These follow below.&lt;/p&gt;
+        &lt;p&gt;As an outcome of the Design and Implementation phase of this project, our team recorded a set of design recommendations. We share them below as possibilities raised in the course of the pilot rather than as commitments: whether any of them is taken up, and by whom, would depend on the relationships and permissions that such work requires.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Narrative Development and Multimedia Integration:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -239,7 +239,7 @@
 &lt;p&gt;Develop a creative handbook to support other communities in creating an ecocultural map in their location.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Incorporate the SOS (Spirit of the Sxwo&amp;rsquo;le) Memorandum of Understanding (MoU) into the narrative.&lt;/p&gt;
+&lt;p&gt;Consider how the SOS (Spirit of the Sxwo&amp;rsquo;le) Memorandum of Understanding (MoU) might be reflected in the narrative.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Consider creative engagement through design to make the tool welcoming to Indigenous individuals and others, including elements like images of a longhouse, nature soundscapes, and gathering around a campfire.&lt;/p&gt;
@@ -270,7 +270,7 @@
       <description>
         
         
-        &lt;p&gt;Making a commitment to working in alignment with the principles of cultural humility and safety is foundational to all change-based work. The following guidelines outline some of what we have learned (are learning) about how these principles need to be enacted within the specific context of eco-cultural work. We offer these guidelines out of humility and respect for the difficult yet deeply meaningful nature of this work:&lt;/p&gt;
+        &lt;p&gt;Making a commitment to working in alignment with the principles of cultural humility and safety is foundational to all change-based work. The following guidelines outline some of what we learned through this pilot about how these principles need to be enacted within the specific context of eco-cultural work. We offer them out of humility and respect for the difficult yet deeply meaningful nature of this work, and not as a settled account:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Genuine Respect for Diversity:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Respecting diverse cultural perspectives, practices and protocols related to the environment means acknowledging:&lt;/p&gt;
 &lt;ul&gt;
@@ -335,7 +335,7 @@
 &lt;p&gt;Adapting or completely overhauling long-standing mindsets and research and design approaches as needed.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Given the gravitational pull of dominance, and the fact that many organizations that have been involved in environmental protection and habitat restoration are white dominated, it is important to formalize a commitment to actualizing the principles of cultural humility and safety at the outset. This can be done through processes such as community agreements and memorandums of understanding, as we have established with WE, through their SOS Coalition. Beyond these formalities, it remains equally important to plan for continual reflection, (re)assessment, and ‘course correction’ in pursuing this work.&lt;/p&gt;
+&lt;p&gt;Given the gravitational pull of dominance, and the fact that many organizations that have been involved in environmental protection and habitat restoration are white dominated, it is important to formalize a commitment to actualizing the principles of cultural humility and safety at the outset. This can be done through processes such as community agreements and memorandums of understanding, as was established with WE through their SOS Coalition over the course of this pilot. Beyond these formalities, it remains equally important to plan for continual reflection, (re)assessment, and ‘course correction’ in pursuing this work.&lt;/p&gt;
 &lt;p&gt;There are no easy fixes, formulas or maps for undertaking transformative eco-cultural initiatives, or undoing environmental degradation and cultural harms that have taken place over multiple decades. This work is on-going and generational. That said, eco-cultural approaches that meaningfully integrate traditional knowledge systems, and embed the principles and practices of cultural safety and humility are more likely to:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

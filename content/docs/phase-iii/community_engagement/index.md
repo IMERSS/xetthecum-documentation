@@ -53,6 +53,6 @@ Our discussions with Augie revealed that there are multiple perspectives on Retr
 
 There are also many missing stories about this place. We acknowledge that these missing pieces are a result of colonization, and are a part of the story that we need to tell.
 
-This experience also confirmed that the story map we created cannot be conclusive. We acknowledged this reality from the outset of our pilot project, and this remains a central lesson as we continue this work.
+This experience also confirmed that the story map we created cannot be conclusive. We acknowledged this reality from the outset of our pilot project, and it remains one of its central lessons.
 
-Ideally, future iterations of this ecocultural mapping framework will better accommodate multiple perspectives, reveal gaps and missing pieces, and help to facilitate continued dialogue about culturally significant places in the Salish Sea.
+Ideally, any future iteration of such a framework would better accommodate multiple perspectives, reveal gaps and missing pieces, and help to facilitate continued dialogue about culturally significant places in the Salish Sea.

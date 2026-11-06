@@ -1,12 +1,12 @@
 ---
 title: Conclusion
-description: "Outcomes, lessons learned and next steps"
+description: "Outcomes, lessons learned, and possibilities we are exploring"
 weight: 5
 sidebar: 
   open: true
 ---
 
-Our project achieved significant outcomes, including the development of an interactive digital map of Xetthecum through a participatory approach, integrating Indigenous wisdom with Western scientific practices. This map documents biodiversity and cultural significance of this area in the Salish Sea region, providing a valuable framework for conservation efforts.
+This pilot project, carried out by IMERSS in partnership with the collaborators who came together through the SOS Coalition, concluded in April 2024. Among its outcomes was an interactive digital map of Xetthecum, developed through a participatory approach that wove Indigenous wisdom together with Western scientific practices. The map documents biodiversity and cultural significance in this part of the Salish Sea.
 
 Along the way:
 
@@ -15,6 +15,6 @@ Along the way:
 - We investigated ongoing monitoring practices to ensure sustained stewardship.
 - Our project prompted critical examination and perspective shifts, emphasizing broader significance and community engagement.
 
-Through data collection and analysis, we laid the groundwork for future resource development and dissemination, reflecting our commitment to holistic and sustainable eco-cultural mapping and conservation.
+With the pilot complete, we are now looking at ways of respectfully mobilizing what we learned through it.
 
-The following pages describe our [outcomes](outcomes/), the [lessons we learned](lessons_learned/), and our [next steps](next_steps/).
+The following pages describe our [outcomes](outcomes/), the [lessons we learned](lessons_learned/), and the [possibilities we are exploring](next_steps/).

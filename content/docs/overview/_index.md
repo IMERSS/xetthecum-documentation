@@ -6,11 +6,11 @@ sidebar:
   open: true
 ---
 
-In partnership with Indigenous and non-Indigenous collaborators, we co-created an inclusive participatory mapping framework that integrates Indigenous ways of knowing with Western ecological science.
+This was a pilot project carried out by IMERSS, in partnership with the Indigenous and non-Indigenous collaborators who came together through the Spirit of the Sxwo’le (SOS) Coalition. Together we co-created an inclusive participatory mapping framework that wove Indigenous ways of knowing together with Western ecological science.
 
-This pilot project centered on the creation of an ecocultural map of Xetthecum Retreat Cove, Galiano Island, BC, Canada, with a focus on Hul’q’umi’num’ species names and place-based stories.
+The pilot centered on the creation of an ecocultural map of Xetthecum Retreat Cove, Galiano Island, BC, Canada, with a focus on Hul’q’umi’num’ species names and place-based stories. It ran from November 2020 to April 2024, and is now complete.
 
-The open source framework we created integrates various sources of information, including:
+The open source framework we created integrated various sources of information, including:
 
 - historical and contemporary biodiversity data
 - terrestrial ecosystem mapping
@@ -24,4 +24,4 @@ Through this work we aimed to engage a diverse, multigenerational, and cross-cul
 By fostering this diverse community of practice, and communicating this information in a format accessible to both land managers and the general public, we hoped to inspire a holistic approach to *shle’muxun*—a Hul’q’umi’num’ word which means “guardian of the land” or “stewardship”.
 {{% /pageinfo %}}
 
-Beyond this pilot project, we plan to adapt these practices and digital tools in partnership with Whiteswan Environmental and other stakeholders in the Spirit of the Sxwo'le (SOS) Coalition to create ecocultural maps of significant sites throughout the Salish Sea.
+With the pilot complete, we are now looking at ways of respectfully mobilizing what we have learned through it. Whether these practices and digital tools might be adapted to other significant sites in the Salish Sea is a question for the communities whose places those are, and for conversations yet to be had.

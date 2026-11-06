@@ -1,6 +1,8 @@
 # Xetthecum Ecocultural Mapping: A Learning Journey
 
-Documenting the story behind the Xetthecum Digital Ecocultural Mapping project and its outcomes.
+Documenting the story behind the Xetthecum Digital Ecocultural Mapping pilot project and its outcomes. The
+pilot was carried out by IMERSS, in partnership with the collaborators who came together through the Spirit of
+the Sxwo’le (SOS) Coalition, and was completed in April 2024.
 
 This repository holds the source for the project's documentation site, browsable on the
 [GitHub Pages site](https://imerss.github.io/xetthecum-documentation) for this repository. It mirrors the structure of

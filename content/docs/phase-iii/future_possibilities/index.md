@@ -1,11 +1,11 @@
 ---
 title: Design Recommendations
 linkTitle: Future Possibilities
-description: "Next steps for design and creative future possibilities"
+description: "Design recommendations and creative possibilities recorded at the close of the pilot"
 weight: 3
 ---
 
-As an outcome of the Design and Implementation phase of this project, we developed a set of design recommendations to guide future iterations of this work. These follow below.
+As an outcome of the Design and Implementation phase of this project, our team recorded a set of design recommendations. We share them below as possibilities raised in the course of the pilot rather than as commitments: whether any of them is taken up, and by whom, would depend on the relationships and permissions that such work requires.
 
 **Narrative Development and Multimedia Integration:**
 
@@ -21,7 +21,7 @@ As an outcome of the Design and Implementation phase of this project, we develop
 
 - Develop a creative handbook to support other communities in creating an ecocultural map in their location.
 
-- Incorporate the SOS (Spirit of the Sxwo'le) Memorandum of Understanding (MoU) into the narrative.
+- Consider how the SOS (Spirit of the Sxwo'le) Memorandum of Understanding (MoU) might be reflected in the narrative.
 
 - Consider creative engagement through design to make the tool welcoming to Indigenous individuals and others, including elements like images of a longhouse, nature soundscapes, and gathering around a campfire.
 

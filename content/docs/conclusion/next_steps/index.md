@@ -1,31 +1,51 @@
 ---
-title: Next Steps
-description: "Mobilizing the outcomes of this work with the community"
+title: Looking Ahead
+linkTitle: Looking Ahead
+description: "Ways we are exploring of respectfully mobilizing what we learned"
 weight: 3
 ---
 
-With the website and story map now public, and several of the steps identified at the close of the pilot [completed](../outcomes/#completed-since-the-2024-report), our focus turns to mobilizing the outcomes of this work with the community, and to deepening the knowledge and relationships at its heart.
+The Xetthecum pilot project is complete. The website and story map are public, and several of the
+possibilities identified at the close of the pilot have since been
+[carried through](../outcomes/#completed-since-the-2024-report).
 
-## Mobilizing the work with the community
+{{% pageinfo %}}
+We are currently looking at ways of respectfully mobilizing what we learned through this completed work.
+Nothing described below is a plan or a commitment; each would depend on relationships, permissions and
+resources that are not ours alone to assume.
+{{% /pageinfo %}}
 
-- **Signage at Xetthecum (Retreat Cove):** Explore the potential for signage at Xetthecum, featuring species names in Hul’q’umi’num’ and English, cultural values, QR codes linking to the story map, and additional pertinent information. This could build on our earlier plans with the Galiano Island Parks and Recreation Society, and would be developed in consultation with Puneluxutth’ knowledge holders and local landholders.
+## Sharing what was made
 
-- **Sharing the outcomes:** Continue to share the story map, BioBlitz results, and other outcomes of this work with the Galiano Island community and beyond—for example through community events, workshops, and educational settings, where teachers and students can directly access biodiversity data as well as stories of place.
+The simplest of these possibilities is to keep sharing the story map, the BioBlitz results and the other
+outcomes of the pilot with the Galiano Island community and beyond—through community events, workshops and
+educational settings, where teachers and students can reach both biodiversity data and stories of place.
 
-- **Data Management Plan:** Consult with Indigenous community members to finalize the Data Management Plan, ensuring permissions for incorporation of cultural knowledge into the project framework.
+We have also discussed, with the Galiano Island Parks and Recreation Society, the idea of signage at
+Xetthecum (Retreat Cove): species names in Hul’q’umi’num’ and English, cultural values, and QR codes linking
+to the story map. Any such thing would need to be developed in consultation with Puneluxutth’ knowledge
+holders and local landholders, and that conversation has not been had.
 
-## Data collection, analysis, and story-mapping
+## Deepening the content
 
-- Transcribe video footage and interviews with Augie Sylvester, and gather data on eelgrass and clam bed restoration and protection, including diverse uses such as hunting, gathering, harvesting, and medicinal purposes. Consider language diversity, repatriation, and the impact of human and marine traffic.
+Material gathered during the pilot has not been fully worked through. Video footage and interviews with Augie
+Sylvester remain to be transcribed, and the database of Hul’q’umi’num’ names for species and map features
+could be supplemented from published sources such as the Cowichan dictionary of the Hul’q’umi’num’ dialect.
+Whether and how this material is used rests with those who shared it.
 
-- Supplement database of Hul’q’umi’num’ names for species and other map features based on The Cowichan Dictionary of the Hul’qumin’um’ Dialect of the Coast Salish People.
+A Data Management Plan was drafted but not finalized. Completing it, in consultation with Indigenous
+community members, would be a precondition for any further incorporation of cultural knowledge into the
+framework.
 
-## Resource development and dissemination
+## Possibilities beyond the pilot
 
-- Consult with Whiteswan Environmental regarding opportunities to adapt this framework to serve their visions of mapping ecocultural information and storytelling about culturally significant sites in the Salish Sea.
+Other ideas were raised in the course of this work, and we hold them lightly:
 
-- Consider developing different versions of the project to promote usefulness and accessibility for different groups.
+- a content management system better suited to protecting intellectual property and respecting the practices
+  and protocols of Indigenous communities
+- versions of the project shaped for different audiences and purposes
+- a compilation of stories of this place, traditional and contemporary alike
 
-- Explore the possibility of compiling stories that encompass both traditional and modern knowledge of the area into a book.
-
-- Develop an improved content management system to ensure the protection of intellectual property and respect for the practices and protocols of Indigenous communities.
+Whether the framework developed here is of use to Whiteswan Environmental or to any other community wishing
+to map culturally significant sites in the Salish Sea is for them to judge, in their own time and on their
+own terms. We remain available to that conversation should it be wanted.

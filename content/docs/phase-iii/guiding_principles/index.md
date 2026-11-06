@@ -4,7 +4,7 @@ description: "Cultural humility and safety in ecocultural work"
 weight: 4
 ---
 
-Making a commitment to working in alignment with the principles of cultural humility and safety is foundational to all change-based work. The following guidelines outline some of what we have learned (are learning) about how these principles need to be enacted within the specific context of eco-cultural work. We offer these guidelines out of humility and respect for the difficult yet deeply meaningful nature of this work:
+Making a commitment to working in alignment with the principles of cultural humility and safety is foundational to all change-based work. The following guidelines outline some of what we learned through this pilot about how these principles need to be enacted within the specific context of eco-cultural work. We offer them out of humility and respect for the difficult yet deeply meaningful nature of this work, and not as a settled account:
 
 **Genuine Respect for Diversity:**
 
@@ -52,7 +52,7 @@ Eco-cultural work often involves partnerships and collaboration between individu
 
 - Adapting or completely overhauling long-standing mindsets and research and design approaches as needed.
 
-Given the gravitational pull of dominance, and the fact that many organizations that have been involved in environmental protection and habitat restoration are white dominated, it is important to formalize a commitment to actualizing the principles of cultural humility and safety at the outset. This can be done through processes such as community agreements and memorandums of understanding, as we have established with WE, through their SOS Coalition. Beyond these formalities, it remains equally important to plan for continual reflection, (re)assessment, and ‘course correction’ in pursuing this work.
+Given the gravitational pull of dominance, and the fact that many organizations that have been involved in environmental protection and habitat restoration are white dominated, it is important to formalize a commitment to actualizing the principles of cultural humility and safety at the outset. This can be done through processes such as community agreements and memorandums of understanding, as was established with WE through their SOS Coalition over the course of this pilot. Beyond these formalities, it remains equally important to plan for continual reflection, (re)assessment, and ‘course correction’ in pursuing this work.
 
 There are no easy fixes, formulas or maps for undertaking transformative eco-cultural initiatives, or undoing environmental degradation and cultural harms that have taken place over multiple decades. This work is on-going and generational. That said, eco-cultural approaches that meaningfully integrate traditional knowledge systems, and embed the principles and practices of cultural safety and humility are more likely to:
 

@@ -8,7 +8,7 @@ This documentation represents the culmination of over three years of activity, c
 
 Each phase in the project concluded with a review process involving key stakeholders and advisors, in order to satisfy the pilot project’s Acceptance Criteria.
 
-To reach a broad readership, these activities have been communicated in general terms. In the future, detailed appendices will be prepared to document the more technical aspects of this project’s implementation, to support knowledge mobilization and capacity building for Whiteswan Environmental and other communities interested in replicating this work.
+To reach a broad readership, these activities have been communicated in general terms. Detailed appendices documenting the more technical aspects of this project’s implementation were not prepared within the term of the pilot; whether they are worth preparing, and for whom, is among the questions we are now considering.
 
 **Table 2.** Summary of Pilot Project Phases
 
@@ -62,4 +62,4 @@ In the short term, we believed that we could achieve worthwhile results in the c
 
 We also aimed to foster intergenerational transfer of knowledge and skills, to help young Indigenous and non-Indigenous community members develop competency in baseline biodiversity inventory and eco-cultural mapping as a professional practice.
 
-Through this pilot we hoped to set an example for how this work might be undertaken despite limited resources in other small communities, informing methods that can be readily implemented using available biodiversity data and ecocultural information. As a starting point, we believe this framework holds much potential to be adapted and expanded through the continuation of this work.
+Through this pilot we hoped to offer one example of how such work might be undertaken with limited resources in a small community, using biodiversity data and ecocultural information already at hand. It was a starting point, and no more than that.

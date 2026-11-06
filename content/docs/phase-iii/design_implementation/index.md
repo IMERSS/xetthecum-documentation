@@ -34,7 +34,7 @@ Over the course of Phase II and into Phase III of the project, the team had many
 
 Given the large amount of information we had gathered, as well as the unique interactive approach of the framework, we were concerned that landing on the interactive map for the first time could be overwhelming and confusing for many.
 
-In addition to the creation of a how-to tutorial (part of our next steps), the design team worked on an interactive onboarding sequence rooted in the symbolism of the Coast Salish spindle whorl (see Figma prototype [here](https://www.figma.com/proto/yXKyjRyHbnJPB6jrbfO0dq/Xetthecum?page-id=801%3A2&type=design&node-id=1348-298&viewport=359%2C-279%2C0.19&t=IbSkke2BSQTUyACG-1&scaling=min-zoom&starting-point-node-id=1348%3A298&show-proto-sidebar=1&mode=design) and screen capture [here](https://drive.google.com/file/d/1yP0xCxeO8N9lbgUdpA4KNteJdc_jGqZh/view?usp=drive_link)), which aimed at providing a creative and engaging introduction to the story map and its content.
+In addition to the creation of a how-to tutorial (identified as a possible next step), the design team worked on an interactive onboarding sequence rooted in the symbolism of the Coast Salish spindle whorl (see Figma prototype [here](https://www.figma.com/proto/yXKyjRyHbnJPB6jrbfO0dq/Xetthecum?page-id=801%3A2&type=design&node-id=1348-298&viewport=359%2C-279%2C0.19&t=IbSkke2BSQTUyACG-1&scaling=min-zoom&starting-point-node-id=1348%3A298&show-proto-sidebar=1&mode=design) and screen capture [here](https://drive.google.com/file/d/1yP0xCxeO8N9lbgUdpA4KNteJdc_jGqZh/view?usp=drive_link)), which aimed at providing a creative and engaging introduction to the story map and its content.
 
 {{% imgproc storymap_portal Fit "1600x1600" %}}
 **Figure 4.** Story Map visualizations created during Phase III of the Xetthecum pilot project, framed in the website portal which offers multiple approaches to exploring content.
@@ -42,7 +42,7 @@ In addition to the creation of a how-to tutorial (part of our next steps), the d
 
 ## A portal into the story map
 
-In order to improve the accessibility of the storymap, we sought to provide a diversity of entry points, including the ability to begin at a simple starting point and then dive into deeper layers of interaction and information. This approach would provide the basis for a non-linear narrative experience through hyper-linking (see [Next Steps](../future_possibilities/)).
+In order to improve the accessibility of the storymap, we sought to provide a diversity of entry points, including the ability to begin at a simple starting point and then dive into deeper layers of interaction and information. This approach would provide the basis for a non-linear narrative experience through hyper-linking (see [Future Possibilities](../future_possibilities/)).
 
 The educators on the team also felt that this way of organising the data would be particularly useful in a formal educational setting, where teachers and students could directly access biodiversity data as well as stories of place.
 
@@ -52,14 +52,14 @@ Thus, the design focus shifted from the onboarding welcome sequence to the creat
 
 In developing the ecocultural mapping framework (latest version [here](https://imerss.github.io/xetthecum-storymap-story/Xetthecum-Storymap-Reknitted.html#)) we considered a number of different approaches and designs towards creating an accessible and inclusive experience for a broad audience.
 
-We acknowledge that one version of the framework is inadequate and that having a flexible framework that welcomes community contributions and that can be adapted to different needs, purposes and contexts is essential in the longer term.
+We came to see that any single version of the framework is inadequate, and that a flexible framework—one welcoming community contributions, adaptable to different needs, purposes and contexts—would matter more in the longer term.
 
-Next steps in the design of the framework will be to gather more community input through a community event being planned on Galiano Island in the Fall of 2024.
+At the close of the pilot, the design team looked toward gathering further community input through a community event on Galiano Island in the Fall of 2024.
 
-Our aim has been to build a framework that is itself a scaffold to support further story gathering, which we can continue to elaborate in the longer term.
+Our aim was to build a framework that is itself a scaffold for further story gathering, should the opportunity to elaborate it arise.
 
 {{% pageinfo %}}
-This framework is not an end unto itself, but an ongoing collaborative process, and this documentation shares our learning journey along the way. We hope that sharing this journey will support others in adapting this ecocultural mapping framework in a way that is appropriate for their location and context.
+This framework was never an end unto itself, but a collaborative process, and this documentation shares our learning journey along the way. We offer it in the hope that it may be of some use to others, should they wish to approach such work in a way appropriate to their own location and context.
 {{% /pageinfo %}}
 
 Table 17 describes the tasks undertaken in the design and implementation of our ecocultural storymap.

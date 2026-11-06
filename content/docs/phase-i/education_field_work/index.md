@@ -19,13 +19,13 @@ Both enjoyed the sessions that they completed because it gave them the opportuni
 
 Rhys and Austin have had a lot of opportunities in the past to be out in the field and conduct observations of species and the space around them but had not incorporated mindful practices into their observations before. Both felt incorporating mindful practices into their observations was a bit of a challenge, but it did provide them with a different perspective when out in the field.
 
-We are working with Rhys and Austin to implement their suggestions into Phase III of our project once we connect with more community members and youth.
+We carried their suggestions forward into later phases of the project, as we connected with more community members and youth.
 
 ## Monitoring western redcedar
 
 In addition to exploring the Everyone Counts! curriculum, we coordinated with Joey Hulbert of Washington State University's Forest Health Watch Program to consider the potential of incorporating their methodology for monitoring the health of western redcedar (xpey’) at later stages of this project.
 
-This program promised not only to generate useful data in the context of this monitoring program, but also to enhance our efforts of community engagement through its focus on a culturally significant species that is currently exhibiting signs of stress on the landscape.
+This program promised not only to generate useful data in the context of that monitoring program, but also to enhance our efforts of community engagement through its focus on a culturally significant species that was exhibiting signs of stress on the landscape.
 
 ## Drone imagery
 
