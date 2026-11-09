@@ -46,6 +46,21 @@ Other ideas were raised in the course of this work, and we hold them lightly:
 - versions of the project shaped for different audiences and purposes
 - a compilation of stories of this place, traditional and contemporary alike
 
-Whether the framework developed here is of use to Whiteswan Environmental or to any other community wishing
-to map culturally significant sites in the Salish Sea is for them to judge, in their own time and on their
-own terms. We remain available to that conversation should it be wanted.
+## An offering
+
+The framework developed here is an offering: open-source technology that can be adapted to map places of
+cultural significance throughout the Salish Sea. It was designed not simply to be reused, but to be taken
+up, reimagined, and reshaped to serve the needs of different communities.
+
+In sharing this documentation, however, we hope to offer something beyond the technology itself. We offer an
+open account of our efforts to respectfully bring together different ways of knowing and understanding one
+important place—a place cherished by many people, for different reasons and from different perspectives.
+These perspectives do not always converge, nor should they be expected to form a single story. Instead, we
+have tried to be transparent about the process: the questions we asked, the knowledge entrusted to us, the
+permissions we received, the decisions we approached with care, and the moments when we stumbled or fell
+short.
+
+Perhaps the most important lesson we can share is that the technology was never the hardest part. Building
+relationships, earning trust, and learning to work respectfully across different ways of knowing require a
+different kind of commitment. This is work that extends far beyond any single project, and remains the work
+of future generations.
