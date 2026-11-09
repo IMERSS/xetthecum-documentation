@@ -7,7 +7,7 @@ linkTitle: Learning Journey
 This is not a recipe or a set of tools to be picked up and applied elsewhere. It is an account of a
 learning journey: how a cross-cultural community of practice came together, through a pilot project now
 complete, to create an ecocultural map of Xetthecum (Retreat Cove), Galiano Island—what we tried, what we
-learned, and where we stumbled.
+learned, and where we fumbled and stumbled.
 {{% /pageinfo %}}
 
 We share it in the hope that it may help others walk their own paths, in ways appropriate to their
