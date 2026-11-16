@@ -38,11 +38,11 @@ We successfully applied new technologies, including the use of drones to capture
 
 Through collaboration with regional and local agencies, as well as members of the Galiano Island community, we explored the potential for developing ongoing biodiversity and eco-cultural monitoring practices. Whether such practices take root is a question for those who live and work in this place.
 
-These outcomes reflect what we were able to do, within the term of the pilot, toward holistic and inclusive approaches to eco-cultural mapping and conservation.
+These outcomes reflect our efforts toward holistic and inclusive approaches to eco-cultural mapping and conservation.
 
 ## Completed since the 2024 report
 
-Several of the [possibilities](../next_steps/) identified at the close of the pilot have since been carried through:
+Several of the [possibilities](../next_steps/) we identified then have since been carried through:
 
 **Public launch of the website and story map:**
 

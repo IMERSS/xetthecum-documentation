@@ -1,11 +1,11 @@
 ---
 title: Design Recommendations
 linkTitle: Future Possibilities
-description: "Design recommendations and creative possibilities recorded at the close of the pilot"
+description: "Design recommendations and creative possibilities"
 weight: 3
 ---
 
-As an outcome of the Design and Implementation phase of this project, our team recorded a set of design recommendations. We share them below as possibilities raised in the course of the pilot rather than as commitments: whether any of them is taken up, and by whom, would depend on the relationships and permissions that such work requires.
+As an outcome of the Design and Implementation phase of this project, our team recorded a set of design recommendations. We share them below as possibilities rather than commitments.
 
 **Narrative Development and Multimedia Integration:**
 

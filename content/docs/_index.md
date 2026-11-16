@@ -5,9 +5,9 @@ linkTitle: Learning Journey
 
 {{% pageinfo %}}
 This is not a recipe or a set of tools to be picked up and applied elsewhere. It is an account of a
-learning journey: how a cross-cultural community of practice came together, through a pilot project now
-complete, to create an ecocultural map of Xetthecum (Retreat Cove), Galiano Island—what we tried, what we
-learned, and where we fumbled and stumbled.
+learning journey: how a cross-cultural community of practice came together to create an ecocultural map
+of Xetthecum (Retreat Cove), Galiano Island—what we tried, what we learned, and where we fumbled and
+stumbled.
 {{% /pageinfo %}}
 
 We share it in the hope that it may help others walk their own paths, in ways appropriate to their
@@ -29,8 +29,7 @@ Xetthecum (Retreat Cove), Galiano Island, British Columbia.
 
 This documentation follows the Xetthecum pilot project through its three phases, from November 2020
 to April 2024. The pilot was carried out by IMERSS, in partnership with the Indigenous and non-Indigenous
-individuals and organizations who came together through the Spirit of the Sxwo’le (SOS) Coalition, and
-concluded in April 2024.
+individuals and organizations who came together through the Spirit of the Sxwo’le (SOS) Coalition.
 
 - [**Project Overview**](overview/): background, goals, participants and scope
 - [**Phase I: Research, Outreach & Planning**](phase-i/): building relationships, consolidating existing knowledge and assembling a GIS

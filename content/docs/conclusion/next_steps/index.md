@@ -5,15 +5,22 @@ description: "Ways we are exploring of respectfully mobilizing what we learned"
 weight: 3
 ---
 
-The Xetthecum pilot project is complete. The website and story map are public, and several of the
-possibilities identified at the close of the pilot have since been
+The website and story map are now public, and several of the possibilities we identified have since been
 [carried through](../outcomes/#completed-since-the-2024-report).
 
 {{% pageinfo %}}
-We are currently looking at ways of respectfully mobilizing what we learned through this completed work.
-Nothing described below is a plan or a commitment; each would depend on relationships, permissions and
-resources that are not ours alone to assume.
+We are currently looking at ways of respectfully mobilizing what we learned through this work. The
+relationships at its heart continue. The possibilities sketched below are not plans or commitments, and
+each would depend on permissions and resources beyond our own.
 {{% /pageinfo %}}
+
+## Tending the relationships
+
+The most important of these steps is also the least tangible. The relationships built through this
+work—with Puneluxutth’ knowledge holders and Elders, with Whiteswan Environmental and the other members of
+the SOS Coalition, and with neighbours, youth and community organizations on Galiano Island and across the
+Salish Sea—continue, and tending them is itself ongoing work. They were never a means to the map. They are
+what made it possible, and they outlast it.
 
 ## Sharing what was made
 
@@ -24,22 +31,21 @@ educational settings, where teachers and students can reach both biodiversity da
 We have also discussed, with the Galiano Island Parks and Recreation Society, the idea of signage at
 Xetthecum (Retreat Cove): species names in Hul’q’umi’num’ and English, cultural values, and QR codes linking
 to the story map. Any such thing would need to be developed in consultation with Puneluxutth’ knowledge
-holders and local landholders, and that conversation has not been had.
+holders and local landholders.
 
 ## Deepening the content
 
-Material gathered during the pilot has not been fully worked through. Video footage and interviews with Augie
+Some of the material we gathered has not been fully worked through. Video footage and interviews with Augie
 Sylvester remain to be transcribed, and the database of Hul’q’umi’num’ names for species and map features
 could be supplemented from published sources such as the Cowichan dictionary of the Hul’q’umi’num’ dialect.
 Whether and how this material is used rests with those who shared it.
 
 A Data Management Plan was drafted but not finalized. Completing it, in consultation with Indigenous
-community members, would be a precondition for any further incorporation of cultural knowledge into the
-framework.
+community members, would come before any further incorporation of cultural knowledge into the framework.
 
 ## Possibilities beyond the pilot
 
-Other ideas were raised in the course of this work, and we hold them lightly:
+Other ideas were raised in the course of this work:
 
 - a content management system better suited to protecting intellectual property and respecting the practices
   and protocols of Indigenous communities

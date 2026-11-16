@@ -54,9 +54,9 @@ In developing the ecocultural mapping framework (latest version [here](https://i
 
 We came to see that any single version of the framework is inadequate, and that a flexible framework—one welcoming community contributions, adaptable to different needs, purposes and contexts—would matter more in the longer term.
 
-At the close of the pilot, the design team looked toward gathering further community input through a community event on Galiano Island in the Fall of 2024.
+The design team also looked toward gathering further community input through a community event on Galiano Island in the Fall of 2024.
 
-Our aim was to build a framework that is itself a scaffold for further story gathering, should the opportunity to elaborate it arise.
+Our aim was to build a framework that is itself a scaffold for further story gathering.
 
 {{% pageinfo %}}
 This framework was never an end unto itself, but a collaborative process, and this documentation shares our learning journey along the way. We offer it in the hope that it may be of some use to others, should they wish to approach such work in a way appropriate to their own location and context.
