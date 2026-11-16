@@ -204,9 +204,14 @@ params:
     from_year: 2024
 
   navbar:
+    # Clicking the IMERSS lockup (mark and wordmark) returns to the institute's main site
     logo:
       width: 35
       height: 30
+      link: https://www.imerss.org
+      label: IMERSS
+    title:
+      link: https://www.imerss.org
 
   # User interface configuration - note this is dead stuff carried over from docsy
   ui:

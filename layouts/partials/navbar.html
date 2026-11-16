@@ -1,5 +1,6 @@
 {{- $logoPath := .Site.Params.navbar.logo.path | default "images/logo.svg" -}}
 {{- $logoLink := .Site.Params.navbar.logo.link | default .Site.Home.RelPermalink -}}
+{{- $titleLink := .Site.Params.navbar.title.link | default .Site.Home.RelPermalink -}}
 {{- $logoWidth := .Site.Params.navbar.logo.width | default "20" -}}
 {{- $logoHeight := .Site.Params.navbar.logo.height | default "20" -}}
 {{- $logoDarkPath := .Site.Params.navbar.logo.dark | default $logoPath -}}
@@ -24,15 +25,19 @@ removed a few hard-coded title styles */}}
    {{- if .Params.imerssCover }} imerss-navbar-cover {{- else }} imerss-navbar {{- end }}">
   <div class="hx-pointer-events-none hx-absolute hx-z-[-1] hx-h-full hx-w-full"></div>
   <nav class="hx-mx-auto hx-flex hx-items-center hx-justify-end hx-gap-2 hx-h-16 hx-px-6 {{ $navWidth }}">
-    <a class="imerss-navbar-title hx-flex hx-items-center hover:hx-opacity-75 ltr:hx-mr-auto rtl:hx-ml-auto" href="{{ $logoLink }}">
+    <div class="imerss-navbar-brand hx-flex hx-items-center ltr:hx-mr-auto rtl:hx-ml-auto">
       {{- if (.Site.Params.navbar.displayLogo | default true) }}
-      <img class="hx-block dark:hx-hidden" src="{{ $logoPath | relURL }}" alt="{{ .Site.Title }}" height="{{ $logoHeight }}" width="{{ $logoWidth }}" />
-      <img class="hx-hidden dark:hx-block" src="{{ $logoDarkPath | relURL }}" alt="{{ .Site.Title }}" height="{{ $logoHeight }}" width="{{ $logoWidth }}" />
+      <a class="hx-flex hx-items-center hover:hx-opacity-75" href="{{ $logoLink }}" aria-label="{{ .Site.Params.navbar.logo.label | default .Site.Title }}">
+        <img class="hx-block dark:hx-hidden" src="{{ $logoPath | relURL }}" alt="{{ .Site.Params.navbar.logo.label | default .Site.Title }}" height="{{ $logoHeight }}" width="{{ $logoWidth }}" />
+        <img class="hx-hidden dark:hx-block" src="{{ $logoDarkPath | relURL }}" alt="{{ .Site.Params.navbar.logo.label | default .Site.Title }}" height="{{ $logoHeight }}" width="{{ $logoWidth }}" />
+      </a>
       {{- end }}
       {{- if (.Site.Params.navbar.displayTitle | default true) }}
-      <span class="hx-mx-2 hx-inline hx-select-none" title="{{ .Site.Title }}">{{- .Site.Title -}}</span>
+      <a class="imerss-navbar-title hx-flex hx-items-center hover:hx-opacity-75" href="{{ $titleLink }}">
+        <span class="hx-mx-2 hx-inline hx-select-none" title="{{ .Site.Title }}">{{- .Site.Title -}}</span>
+      </a>
       {{- end }}
-    </a>
+    </div>
     {{- $currentPage := . -}}
     <div class="imerss-navbar-links">
     {{- range .Site.Menus.main -}}
